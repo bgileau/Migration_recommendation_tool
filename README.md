@@ -1,4 +1,4 @@
-# Migration Recommendation Tool
+# Migration Recommendation Tool with visualization
 Moving to a new location is a potentially life-changing and complex decision which upends all
 aspects of one's life. A fundamental lack of resources and tools unfortunately exists when
 determining where to move. Despite the ongoing decline in migration rates over the past few decades,
